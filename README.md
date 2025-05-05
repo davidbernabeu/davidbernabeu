@@ -30,6 +30,9 @@
 	<a href="https://www.linkedin.com/in/davidbernabeuperez/">
 		<img height="33" src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 	</a>
+	<a href="https://devpost.com/david26ber">
+                <img height="33" src="https://img.shields.io/badge/devpost-003E54.svg?style=plastic&logo=devpost&logoColor=white" alt="Devpost"/>
+        </a>
 </p>
 
 ## 🛠️ Tools
