@@ -36,7 +36,7 @@
 
 ### 💻 Programming languages
 
-<p align="left">
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=mysql,sqlite,git,github,docker,postman,vscode,bash,linux,ai,openstack" />
   </a>
