@@ -13,8 +13,6 @@
 
 ## 💬 About me
 
-<picture> <img align="right" src="https://github.com/davidbernabeuperez/davidbernabeuperez/blob/main/Images/Right_Side.gif?raw=true" width=250px></picture>
-
 <br><br>
 
 - 🎓 I am a Telecommunications Engineer with experience in cloud environments and cloud-based development solutions.
