@@ -103,8 +103,8 @@
 ## 🏆 Mis Certificaciones
 
 <p align="center">
-  <a href="https://www.coursera.org/learn/certificacion1](https://www.credly.com/badges/d6e57e7e-4aac-4936-818d-5cf0958fb3fd/public_url">
-    <img src="URL_DE_LA_IMAGEN_CERTIFICACION1" alt="Certificación 1" width="200px"/>
+  <a href="https://www.credly.com/badges/d6e57e7e-4aac-4936-818d-5cf0958fb3fd/public_url">
+    <img src="https://images.credly.com/images/fce226c2-0f13-4e17-b60c-24fa6ffd88cb/Intro2IoT.png" alt="Certificación 1" width="200px"/>
   </a>
   <a href="https://www.coursera.org/learn/certificacion2">
     <img src="URL_DE_LA_IMAGEN_CERTIFICACION2" alt="Certificación 2" width="200px"/>
