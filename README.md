@@ -5,8 +5,6 @@
   </a>
 </p>
 
-<br>
-
 <p align="center"> 
 	<img src="https://komarev.com/ghpvc/?username=davidbernabeuperez&label=Profile%20views&color=0047AB&style=plastic?" alt="davidbernabeuperez" height=25px, width=160px/> 
 </p>
