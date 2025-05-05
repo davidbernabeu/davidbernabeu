@@ -100,6 +100,28 @@
 
 ---
 
+## 🏆 Mis Certificaciones
+
+<p align="center">
+  <a href="https://www.coursera.org/learn/certificacion1">
+    <img src="URL_DE_LA_IMAGEN_CERTIFICACION1" alt="Certificación 1" width="200px"/>
+  </a>
+  <a href="https://www.coursera.org/learn/certificacion2">
+    <img src="URL_DE_LA_IMAGEN_CERTIFICACION2" alt="Certificación 2" width="200px"/>
+  </a>
+  <a href="https://www.coursera.org/learn/certificacion3">
+    <img src="URL_DE_LA_IMAGEN_CERTIFICACION3" alt="Certificación 3" width="200px"/>
+  </a>
+  <a href="https://www.coursera.org/learn/certificacion4">
+    <img src="URL_DE_LA_IMAGEN_CERTIFICACION4" alt="Certificación 4" width="200px"/>
+  </a>
+  <a href="https://www.coursera.org/learn/certificacion5">
+    <img src="URL_DE_LA_IMAGEN_CERTIFICACION5" alt="Certificación 5" width="200px"/>
+  </a>
+</p>
+
+---
+
 <p align="center">
 	<a href="https://github.com/piyushsuthar/github-readme-quotes"> <img alt="Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming">
 </p>
