@@ -34,8 +34,6 @@
 
 ## 🛠️ My skills
 
-### 💻 Programming languages
-
 <p align="center">
   <a href="#">
     <img src="https://skillicons.dev/icons?i=mysql,sqlite,git,github,docker,postman,vscode,bash,linux,ai,openstack" />
@@ -60,8 +58,6 @@
   </a>
 </p>
 -->
-
-### 🧰 Software and tools
  
 <p align="center">
   &emsp;
@@ -73,8 +69,6 @@
   &emsp;
     <a href="#"><img height="33" alt="Postman" src="https://img.shields.io/badge/postman-%23FF6C37.svg?style=plastic&logo=postman&logoColor=white"></a>
 </p>
-
-### 💾 Databases
  
 <p align="center">
   &emsp;
