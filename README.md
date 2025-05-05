@@ -65,13 +65,13 @@
  
 <p align="center">
   &emsp;
-    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?style=plastic&logo=git&logoColor=white"></a>
+    <a href="#"><img height="33" alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?style=plastic&logo=git&logoColor=white"></a>
   &emsp;
-    <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white"></a>
+    <a href="#"><img height="33" alt="GitHub" src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white"></a>
   &emsp;
-    <a href="#"><img alt="Docker" src="https://img.shields.io/badge/docker-%232496ED.svg?style=plastic&logo=docker&logoColor=white"></a>
+    <a href="#"><img height="33" alt="Docker" src="https://img.shields.io/badge/docker-%232496ED.svg?style=plastic&logo=docker&logoColor=white"></a>
   &emsp;
-    <a href="#"><img alt="Postman" src="https://img.shields.io/badge/postman-%23FF6C37.svg?style=plastic&logo=postman&logoColor=white"></a>
+    <a href="#"><img height="33" alt="Postman" src="https://img.shields.io/badge/postman-%23FF6C37.svg?style=plastic&logo=postman&logoColor=white"></a>
 </p>
 
 ### 💾 Databases
