@@ -32,7 +32,7 @@
 	</a>
 </p>
 
-## 🛠️ My skills
+## 🛠️ Tools
 
 <p align="center">
   <a href="#">
@@ -59,7 +59,7 @@
 </p>
 -->
 
-## Tools
+## Daily use
  
 <p align="center">
   &emsp;
