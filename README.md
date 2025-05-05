@@ -27,7 +27,6 @@
 
 ## 🔗 Conéctame
 
-## <picture> <img src="https://github.com/davidbernabeuperez/davidbernabeuperez/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Conéctame
 <p align="center">
 	<a href="mailto:david.bernabeu@example.com"><img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
 	<a href="https://github.com/davidbernabeuperez"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
