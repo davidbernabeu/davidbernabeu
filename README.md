@@ -59,7 +59,7 @@
 </p>
 -->
 
-## Daily use
+## ⏱️ Daily use
  
 <p align="center">
   &emsp;
