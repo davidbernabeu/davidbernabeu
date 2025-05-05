@@ -17,13 +17,12 @@
 
 <br><br>
 
-- 🎓 Soy **Ingeniero en Computación** con experiencia en desarrollo de software.
-- 🏅 Apasionado por la **inteligencia artificial** y el **aprendizaje automático**.
-- 💻 Me encanta resolver problemas complejos mediante el uso de la tecnología.
-- 🌐 Tengo experiencia en **desarrollo web** y **aplicaciones móviles**.
-- 📚 Siempre estoy aprendiendo nuevas tecnologías y herramientas.
-- 🤔 Actualmente estoy buscando nuevas **oportunidades laborales**. [MI CV](https://www.linkedin.com/in/davidbernabeuperez)
-- 🌟 Puedes visitar [MI SITIO WEB](https://www.davidbernabeuperez.com).
+- 🎓 I am a Telecommunications Engineer with experience in cloud environments and cloud-based development solutions.
+- 🏅 Passionate about **AI** **CLOUD** **SOFTWARE**.
+- 💻 I love solving complex problems through the use of technology.
+- 🌐 I have experience in creative and innovative projects.
+- 📚 I'm always learning new technologies and tools.
+- 🤔 I am currently seeking new job opportunities [MI CV](https://www.linkedin.com/in/davidbernabeuperez)
 
 ## 🔗 Conéctame
 
