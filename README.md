@@ -78,9 +78,11 @@
  
 <p align="center">
   &emsp;
-    <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/mysql-%234479A1.svg?style=plastic&logo=mysql&logoColor=white"></a>
+    <a href="#"><img height="33" alt="MySQL" src="https://img.shields.io/badge/mysql-%234479A1.svg?style=plastic&logo=mysql&logoColor=white"></a>
   &emsp;
-    <a href="#"><img alt="MongoDB" src="https://img.shields.io/badge/mongodb-%2347A248.svg?style=plastic&logo=mongodb&logoColor=white"></a>
+    <a href="#"><img height="33" alt="MongoDB" src="https://img.shields.io/badge/mongodb-%2347A248.svg?style=plastic&logo=mongodb&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img height="33" alt="MariaDB" src="https://img.shields.io/badge/mongodb-%2347A248.svg?style=plastic&logo=mariadb&logoColor=white"></a>
 </p>
 
 <br> 
