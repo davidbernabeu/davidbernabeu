@@ -1,6 +1,6 @@
 <h1 align="center">Hola, soy David Bernabéu Pérez <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/durgeshsamariya/awesome-github-profile-templates"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Desarrollador+de+Software;Ingeniero+en+Computación;Apasionado+por+la+tecnología;Siempre+aprendiendo"></a>
+  <a href="https://github.com/durgeshsamariya/awesome-github-profile-templates"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Telecommunications+Engineer;Problem+solver;Cloud+Support+Engineer;Always+committed+to+continuous+learning"></a>
 </p>
 
 <br>
