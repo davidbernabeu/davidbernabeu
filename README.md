@@ -1,4 +1,4 @@
-<h1 align="center">Hola, soy David Bernabéu Pérez <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hey, I am David Bernabéu Pérez <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
   <a href="https://github.com/durgeshsamariya/awesome-github-profile-templates">
     <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Telecommunications+Engineer;Cloud+Support+Engineer;Always+committed+to+continuous+learning&duration=800&pause=1000">
@@ -11,7 +11,7 @@
 	<img src="https://komarev.com/ghpvc/?username=davidbernabeuperez&label=Profile%20views&color=0047AB&style=plastic?" alt="davidbernabeuperez" height=25px, width=160px/> 
 </p>
 
-## 💬 Sobre mí
+## 💬 About me
 
 <picture> <img align="right" src="https://github.com/davidbernabeuperez/davidbernabeuperez/blob/main/Images/Right_Side.gif?raw=true" width=250px></picture>
 
@@ -24,7 +24,7 @@
 - 📚 I'm always learning new technologies and tools.
 - 🤔 I am currently seeking new job opportunities [MI CV](https://www.linkedin.com/in/davidbernabeuperez)
 
-## 🔗 Conéctame
+## 🔗 Connect
 
 <p align="center">
 	<a href="mailto:david.bernabeu@example.com"><img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
@@ -33,9 +33,9 @@
 	<a href="https://twitter.com/davidbernabeu"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?style=plastic&logo=twitter&logoColor=white" alt="Twitter"/></a>
 </p>
 
-## 🛠️ Mis Habilidades
+## 🛠️ My skills
 
-### 💻 Lenguajes de Programación
+### 💻 Programming languages
 
 <p align="center"> 
   &emsp; 
@@ -60,7 +60,7 @@
   </a>
 </p>
 
-### 🎨 Desarrollo Frontend
+### 🎨 Frontend development
 <p align="center"> 
   &emsp; 
   <a href="https://www.w3.org/html/" target="_blank"> 
@@ -76,7 +76,7 @@
   </a>
 </p>
 
-### 🧰 Herramientas y Software
+### 🧰 Software and tools
  
 <p align="center">
   &emsp;
@@ -89,7 +89,7 @@
     <a href="#"><img alt="Postman" src="https://img.shields.io/badge/postman-%23FF6C37.svg?style=plastic&logo=postman&logoColor=white"></a>
 </p>
 
-### 💾 Bases de Datos
+### 💾 Databases
  
 <p align="center">
   &emsp;
@@ -102,7 +102,7 @@
 
 ---
 
-## 🏆 Mis Certificaciones
+## 🏆 My certificates
 
 <p align="center">
   <a href="https://www.credly.com/badges/d6e57e7e-4aac-4936-818d-5cf0958fb3fd/public_url">
