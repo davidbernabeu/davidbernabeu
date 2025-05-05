@@ -103,7 +103,7 @@
 ## 🏆 Mis Certificaciones
 
 <p align="center">
-  <a href="https://www.coursera.org/learn/certificacion1">
+  <a href="https://www.coursera.org/learn/certificacion1](https://www.credly.com/badges/d6e57e7e-4aac-4936-818d-5cf0958fb3fd/public_url">
     <img src="URL_DE_LA_IMAGEN_CERTIFICACION1" alt="Certificación 1" width="200px"/>
   </a>
   <a href="https://www.coursera.org/learn/certificacion2">
