@@ -104,19 +104,28 @@
 
 <p align="center">
   <a href="https://www.credly.com/badges/d6e57e7e-4aac-4936-818d-5cf0958fb3fd/public_url">
-    <img src="https://images.credly.com/images/fce226c2-0f13-4e17-b60c-24fa6ffd88cb/Intro2IoT.png" alt="Certificación 1" width="200px"/>
+    <img src="https://images.credly.com/size/110x110/images/fce226c2-0f13-4e17-b60c-24fa6ffd88cb/Intro2IoT.png" alt="Certificación 1" width="200px"/>
   </a>
-  <a href="https://www.coursera.org/learn/certificacion2">
-    <img src="URL_DE_LA_IMAGEN_CERTIFICACION2" alt="Certificación 2" width="200px"/>
+  <a href="https://www.credly.com/badges/64037174-405d-4a79-aa0e-abfc08f4ec09/public_url">
+    <img src="https://images.credly.com/size/110x110/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" alt="Certificación 2" width="200px"/>
   </a>
-  <a href="https://www.coursera.org/learn/certificacion3">
-    <img src="URL_DE_LA_IMAGEN_CERTIFICACION3" alt="Certificación 3" width="200px"/>
+  <a href="https://www.credly.com/badges/fc5a23c2-e0ab-43e4-af82-b7b9c47b6aa7/public_url">
+    <img src="https://images.credly.com/size/110x110/images/51526f76-711b-4caf-b04d-27f89512b112/NetworkDefense_v1_091721.png" alt="Certificación 3" width="200px"/>
   </a>
-  <a href="https://www.coursera.org/learn/certificacion4">
-    <img src="URL_DE_LA_IMAGEN_CERTIFICACION4" alt="Certificación 4" width="200px"/>
+  <a href="https://www.credly.com/badges/5c563aa7-f0f2-4e23-8137-6eb46f550501/public_url">
+    <img src="https://images.credly.com/size/110x110/images/0ca5f542-fb5e-4a22-9b7a-c1a1ce4c3db7/EndpointSecurity.png" alt="Certificación 4" width="200px"/>
   </a>
-  <a href="https://www.coursera.org/learn/certificacion5">
-    <img src="URL_DE_LA_IMAGEN_CERTIFICACION5" alt="Certificación 5" width="200px"/>
+  <a href="https://www.credly.com/badges/b3cccefb-cf6d-4df5-a6c8-e20186adbaca/public_url">
+    <img src="https://images.credly.com/size/110x110/images/5bdd6a39-3e03-4444-9510-ecff80c9ce79/image.png" alt="Certificación 5" width="200px"/>
+  </a>
+  <a href="https://www.credly.com/badges/a06bd74a-2568-418b-ae68-723b63c4cbd1/public_url">
+    <img src="https://images.credly.com/size/110x110/images/88316fe8-5651-4e61-a6be-5be1558f049e/image.png" alt="Certificación 6" width="200px"/>
+  </a>
+  <a href="https://www.credly.com/badges/be50e70e-4b40-42e4-a3f7-f6fe784f15aa/public_url">
+    <img src="https://images.credly.com/size/110x110/images/441578ec-c0f3-46cc-95fc-86b27e90cf4f/image.png" alt="Certificación 7" width="200px"/>
+  </a>
+  <a href="https://www.credly.com/badges/3bf6a9d2-6a3e-491c-9667-d822855b49aa/public_url ">
+    <img src="https://images.credly.com/size/110x110/images/e360c3e0-4031-479b-ad7b-5ce878bc29d7/image.png" alt="Certificación 8" width="200px"/>
   </a>
 </p>
 
