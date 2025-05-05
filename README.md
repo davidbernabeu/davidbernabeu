@@ -11,19 +11,21 @@
 	<img src="https://komarev.com/ghpvc/?username=davidbernabeuperez&label=Profile%20views&color=0047AB&style=plastic?" alt="davidbernabeuperez" height=25px, width=160px/> 
 </p>
 
-## <picture><img src="https://github.com/davidbernabeuperez/davidbernabeuperez/blob/main/Images/about_me.gif?raw=true" width=50px></picture> Sobre mí
+## 💬 Sobre mí
 
 <picture> <img align="right" src="https://github.com/davidbernabeuperez/davidbernabeuperez/blob/main/Images/Right_Side.gif?raw=true" width=250px></picture>
 
 <br><br>
 
-- :school: Soy **Ingeniero en Computación** con experiencia en desarrollo de software.
-- :trophy: Apasionado por la **inteligencia artificial** y el **aprendizaje automático**.
-- :technologist: Me encanta resolver problemas complejos mediante el uso de la tecnología.
-- :computer: Tengo experiencia en **desarrollo web** y **aplicaciones móviles**.
-- :student: Siempre estoy aprendiendo nuevas tecnologías y herramientas.
-- :thinking: Actualmente estoy buscando nuevas **oportunidades laborales**. [MI CV](https://www.linkedin.com/in/davidbernabeuperez)
-- :boom: Puedes visitar [MI SITIO WEB](https://www.davidbernabeuperez.com).
+- 🎓 Soy **Ingeniero en Computación** con experiencia en desarrollo de software.
+- 🏅 Apasionado por la **inteligencia artificial** y el **aprendizaje automático**.
+- 💻 Me encanta resolver problemas complejos mediante el uso de la tecnología.
+- 🌐 Tengo experiencia en **desarrollo web** y **aplicaciones móviles**.
+- 📚 Siempre estoy aprendiendo nuevas tecnologías y herramientas.
+- 🤔 Actualmente estoy buscando nuevas **oportunidades laborales**. [MI CV](https://www.linkedin.com/in/davidbernabeuperez)
+- 🌟 Puedes visitar [MI SITIO WEB](https://www.davidbernabeuperez.com).
+
+## 🔗 Conéctame
 
 ## <picture> <img src="https://github.com/davidbernabeuperez/davidbernabeuperez/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Conéctame
 <p align="center">
@@ -35,7 +37,7 @@
 
 ## 🛠️ Mis Habilidades
 
-### <picture> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" width="50px> </picture> Lenguajes de Programación
+### 💻 Lenguajes de Programación
 
 <p align="center"> 
   &emsp; 
@@ -60,7 +62,7 @@
   </a>
 </p>
 
-### <picture> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React.svg" width="50px> </picture> Desarrollo Frontend
+### 🎨 Desarrollo Frontend
 <p align="center"> 
   &emsp; 
   <a href="https://www.w3.org/html/" target="_blank"> 
@@ -76,7 +78,7 @@
   </a>
 </p>
 
-### <picture> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS.svg" width="50px> </picture> Herramientas y Software
+### 🧰 Herramientas y Software
  
 <p align="center">
   &emsp;
@@ -89,7 +91,7 @@
     <a href="#"><img alt="Postman" src="https://img.shields.io/badge/postman-%23FF6C37.svg?style=plastic&logo=postman&logoColor=white"></a>
 </p>
 
-### <picture> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Database.svg" width="50px> </picture> Bases de Datos
+### 💾 Bases de Datos
  
 <p align="center">
   &emsp;
