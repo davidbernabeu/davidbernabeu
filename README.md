@@ -19,7 +19,7 @@
 - 🤔 I am currently seeking new opportunities [CV](https://www.linkedin.com/in/davidbernabeuperez)
 
 ## 🔗 Connect
-<br></br>
+
 <p align="center">
 	<a href="mailto:david26ber@gmail.com">
 		<img height="30" src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/>
