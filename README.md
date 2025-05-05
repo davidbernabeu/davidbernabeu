@@ -21,10 +21,15 @@
 ## 🔗 Connect
 <br></br>
 <p align="center">
-	<a href="mailto:david.bernabeu@example.com"><img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
-	<a href="https://github.com/davidbernabeuperez"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
-	<a href="https://www.linkedin.com/in/davidbernabeuperez/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-	<a href="https://twitter.com/davidbernabeu"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?style=plastic&logo=twitter&logoColor=white" alt="Twitter"/></a>
+	<a href="mailto:david26ber@gmail.com">
+		<img height="40" src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/>
+	</a>
+	<a href="https://github.com/davidbernabeuperez">
+		<img height="40" src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/>
+	</a>
+	<a href="https://www.linkedin.com/in/davidbernabeuperez/">
+		<img height="40" src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+	</a>
 </p>
 
 ## 🛠️ My skills
