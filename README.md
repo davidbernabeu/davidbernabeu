@@ -12,7 +12,7 @@
 ## 💬 About me
 
 - 🎓 I am a Telecommunications Engineer with experience in cloud environments and cloud-based development solutions.
-- 🏅 Passionate about **AI** **CLOUD** **SOFTWARE**.
+- 🏅 Passionate about **AI** + **CLOUD** + **SOFTWARE**.
 - 💻 I love solving complex problems through the use of technology.
 - 🌐 I have experience in creative and innovative projects.
 - 📚 I'm always learning new technologies and tools.
