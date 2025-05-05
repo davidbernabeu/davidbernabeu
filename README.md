@@ -16,7 +16,7 @@
 - 💻 I love solving complex problems through the use of technology.
 - 🌐 I have experience in creative and innovative projects.
 - 📚 I'm always learning new technologies and tools.
-- 🤔 I am currently seeking new job opportunities [MI CV](https://www.linkedin.com/in/davidbernabeuperez)
+- 🤔 I am currently seeking new opportunities [CV](https://www.linkedin.com/in/davidbernabeuperez)
 
 ## 🔗 Connect
 
